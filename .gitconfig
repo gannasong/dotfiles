@@ -1,0 +1,9 @@
+[user]
+    name = Miguel
+    email = gannasong@gmail.com
+[alias]
+    co = checkout
+    st = status
+    br = branch
+[init]
+	defaultBranch = main
